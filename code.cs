@@ -9,7 +9,7 @@
                     OnUpdateOrderChanged(this, EventArgs.Empty);
                 }
             }
-        }
+        }//babubu
         protected override void InsertItem(int index, IGameComponent item)
         {
             if (base.IndexOf(item) != -1)
