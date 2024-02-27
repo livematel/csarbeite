@@ -22,7 +22,7 @@
                 this.OnComponentAdded(new GameComponentCollectionEventArgs(item));
             }
         }	protected GamePlatform(Game game)
-        {
+        {//deuche
             if (game == null)
                 throw new ArgumentNullException("game");
             Game = game;
