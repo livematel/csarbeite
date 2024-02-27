@@ -2,7 +2,7 @@
         {
             get { return _updateOrder; }
             set
-            {
+            {//hello
                 if (_updateOrder != value)
                 {
                     _updateOrder = value;
